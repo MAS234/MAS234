@@ -1,4 +1,4 @@
-### Hi there 👋
+<p style:"text-center">Hi there 👋</p>
 
 <!--
 **MAS234/MAS234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
