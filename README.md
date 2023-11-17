@@ -2,9 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=%blue&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+soy+Miguel+Martinez+%F0%9F%91%8B;Desarrollador+web;Front-End+Developer;" alt="Headline" />
 </div>
 
-<div aling=center>
-  <img src="https://media.licdn.com/dms/image/D5616AQHAowx4-DezIw/profile-displaybackgroundimage-shrink_350_1400/0/1686325128318?e=1695254400&v=beta&t=QRLmTl2hueKub6ERgfw0WiLqfXe6auIaF76TDrLV4uM" alt="Portada" >
-</div>
 
 ## About Me :
 
