@@ -8,7 +8,6 @@
 - 😄 Web Developer.
 - 👨‍💻 Frontend Developer.
 - ⚡ UX/UI Designer.
-- 📚 I'm studying a degree in Programming.
 - 📚 I have attended various bootcamps and development programs.
 
 <hr>
