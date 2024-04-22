@@ -6,7 +6,7 @@
 ## About Me :
 
 - 😄 Web Developer.
-- 👨‍💻 Frontend Developer.
+- 👨‍💻 FullStack Developer.
 - ⚡ UX/UI Designer.
 - 📚 I have attended various bootcamps and development programs.
 
