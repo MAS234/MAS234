@@ -7,7 +7,7 @@
 
 - 😄 Web Developer.
 - 👨‍💻 FullStack Developer.
-- ⚡ UX/UI Designer.
+- ⚡ IOS Developer.
 - 📚 I have attended various bootcamps and development programs.
 
 <hr>
